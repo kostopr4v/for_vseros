@@ -8,3 +8,4 @@ necessary urls for vseros II 2023
 5) текстhttps://academy.yandex.ru/handbook/data-analysis/article/preobrazovanie-tekstovyh-dannyh-i-rabota-s-nimi-v-python
 6) ruclip https://towhee.io/image-text-embedding/ru-clip
 7) https://disk.yandex.ru/d/6UCJSSpqv-tzrQ/olgrok
+8) https://disk.yandex.ru/d/6UCJSSpqv-tzrQ/Слабоумие%20и%20отвага/zad1-Copy2.ipynb
